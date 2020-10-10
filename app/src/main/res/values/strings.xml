@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">token_test</string>
+    <string name="emoji">Hi Bro &#128521;&#x1f64b;</string>
 </resources>
