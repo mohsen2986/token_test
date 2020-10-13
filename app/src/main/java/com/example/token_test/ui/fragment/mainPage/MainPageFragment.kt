@@ -28,5 +28,4 @@ class MainPageFragment : Fragment() {
         viewModel = ViewModelProvider(this).get(MainPageViewModel::class.java)
         // TODO: Use the ViewModel
     }
-
 }
