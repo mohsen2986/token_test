@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">token_test</string>
+    <string name="emoji">Hi Bro &#128521;&#x1f64b;</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Malesuada proin libero nunc consequat interdum. Maecenas sed enim ut sem viverra aliquet. Et magnis dis parturient montes nascetur ridiculus mus mauris. Mauris cursus mattis molestie a iaculis. Tristique senectus et netus et malesuada fames ac turpis </string>
+    <string name="password_must_have_8_char">رمز عبور باید حداقل ۸ کاراکتر باشد *<br/></string>
+    <string name="password_must_have_number">رمز عبور باید دارای حداقل یک عدد باشد *<br/></string>
+    <string name="password_must_have_alphabet">رمز عبور باید داری حداقل یک حرف الفبا باشد *<br/></string>
+    <string name="tessst">Hossein&lt;br /&gt;Star</string>
+    <string name="reset_password">بازیابی رمز عبور</string>
+    <string name="reset_password_enter_email">ایمیل خود را وارد نمایید</string>
+    <string name="reset_password_dont_worry">نگران نباشید، ما رمزعبور شما را بازیابی میکنیم.</string>
 </resources>
