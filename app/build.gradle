@@ -78,11 +78,17 @@ dependencies {
     // MATERIAL DIALOG
     implementation "com.afollestad.material-dialogs:core:$material_dialog_version"
 
+    // NetworkCallAdapter
+    implementation "com.github.haroldadmin:NetworkResponseAdapter:4.0.1"
+
+    // NETWORK MONITORING
     implementation 'com.facebook.stetho:stetho:1.5.1'
     implementation 'com.facebook.stetho:stetho-okhttp3:1.5.1'
 
+    // MEMORY LEAK
     debugImplementation 'com.squareup.leakcanary:leakcanary-android:2.5'
 
+    // INPUT VALIDATION
     implementation 'com.basgeekball:awesome-validation:4.2'
 
 }
