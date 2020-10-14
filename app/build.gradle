@@ -91,4 +91,8 @@ dependencies {
     // INPUT VALIDATION
     implementation 'com.basgeekball:awesome-validation:4.2'
 
+    // navigation
+    implementation 'androidx.navigation:navigation-fragment-ktx:2.2.1'
+    implementation 'androidx.navigation:navigation-ui-ktx:2.2.1'
+
 }
